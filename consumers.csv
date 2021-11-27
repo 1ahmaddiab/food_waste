@@ -1,0 +1,5 @@
+﻿ID;Name;Buying_type
+1;Trader A;0
+2;Trader B;1
+3;Restaurant A;0, 1
+4;Supermarket;0
